@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bonny-code
-- 👀 Student @Strive School
+- 👀 FullStack Trainee @University of Turku
 - 🌱 Striving to become a Full Stack Developer
 - 💞️ I’m looking to collaborate on Learning New powerfull Programming Languages
 - 📫 You can reach me at ndiboniface@outlook.com
