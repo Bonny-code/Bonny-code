@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bonny-code
-- 👀 FullStack Trainee @University of Turku
-- 🌱 Striving to become a Full Stack Developer
+- 🌱 Certified AWS Solutions Architect Professional
+- 👀 Former FullStack Trainee @University of Turku
 - 💞️ I’m looking to collaborate on Learning New powerfull Programming Languages
 - 📫 You can reach me at ndiboniface@outlook.com
 
