@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bonny-code
-- 🌱 Certified AWS Solutions Architect Professional
+- 🌱 Cloud Engineer and Certified AWS Solutions Architect Professional
 - 👀 Former FullStack Trainee @University of Turku
-- 💞️ I’m looking to collaborate on Learning New powerfull Programming Languages
+- 💞️ I keep learning to improve my skills
 - 📫 You can reach me at ndiboniface@outlook.com
 
 <!---
